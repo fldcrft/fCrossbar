@@ -50,8 +50,9 @@ The hotbar is fully usable through mouse clicks or keyboard hotkeys.
 Native Final Fantasy XI keybinds naturally limit some available keys, but additional bindings can be extended manually through the settings if you know what you're doing and want more control.
 
 ### 0.3 Logical Hotbar Design
-
 **Informative, but minimal.**
+
+<img width="692" height="600" alt="example-button" src="https://github.com/user-attachments/assets/e6105f0b-b420-4115-8e18-f1e15ccbdcc8" />
 
 For this iteration of the project, I deliberately chose not to use custom skill artwork or heavily graphical buttons. I want the player's focus to remain on the game itself rather than turning the interface into a collection of decorative glyphs.
 
@@ -68,6 +69,8 @@ The typography, state changes, borders, timers, and informational cues are desig
 - Dynamic resource and action-state feedback.
 
 ### 0.4 Skillchain Support
+
+<img width="692" height="720" alt="example-ws" src="https://github.com/user-attachments/assets/4c055aff-03fd-4e30-9d7e-7af0dfd0f9c8" />
 
 fCrossbar includes a built-in Final Fantasy XI skillchain system supporting **all 16 skillchain properties**.
 
